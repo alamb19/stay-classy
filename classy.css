@@ -1,0 +1,24 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: #8C7054;
+  padding: 10px;
+}
+
+.magical_box {
+  border: 2px solid #878079;
+  padding: inherit;
+  background-color: #a0a0a0
+}
+h1 {
+ color: #ffffff;
+ background-color: #8bb789
+}
+
+.p1 {
+  color: #ffffff;
+  background-color: #d8b1b1
+}
+.p2 {
+  color: #a0a0a0;
+  background-color: #ffffff;
+}
